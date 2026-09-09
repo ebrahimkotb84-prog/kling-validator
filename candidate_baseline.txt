@@ -1,0 +1,117 @@
+Use **Reference Image 01** as the exact starting frame and **Reference Image 02** as the exact ending frame.
+
+Preserve the Princess's identity, facial features, body proportions, hairstyle, crown, jewelry, costume, embroidered green cloak, white horse, both royal guards, crowds, fountain, castle architecture, palm trees, decorative fabrics, lighting, colors, textures, spatial relationships, and every visible object exactly as shown in the reference images.
+
+The scene takes place in the **Lovers' Square in front of the Princess's castle during the morning**.
+
+The reference images define the absolute visual boundaries of this shot. Never reveal, generate, infer, reconstruct, or explore anything outside the visual information permitted by **Reference Image 01** and **Reference Image 02**.
+
+The camera follows only the framing transition defined by the two reference images. Its movement must remain strictly limited to the necessary transition from the wider composition of **Reference Image 01** to the closer composition of **Reference Image 02**. At no point may the camera expose any area, person, architecture, ground, sky, decoration, or environmental detail that is not contained within the visual boundaries established by the two references.
+
+Begin exactly from **Reference Image 01**.
+
+The royal procession is already moving naturally forward from the first frame.
+
+The white horse continues walking forward at a calm, dignified, physically natural pace, with believable weight transfer and subtle natural movement through the head, neck, torso, and legs.
+
+The Princess remains naturally seated on the moving horse. Her posture stays elegant and royal while her body responds subtly and realistically to the horse's walking rhythm.
+
+The two royal guards naturally accompany the procession while preserving their established relative positions around the horse. Their walking movement remains restrained, believable, and physically natural.
+
+The crowds on both sides are already naturally active and joyful from the first frame. Their faces show genuine happiness, admiration, and excitement at seeing the Princess.
+
+Different members of the crowd raise their hands to greet her at naturally varied moments. Their gestures, smiles, head turns, body reactions, and hand movements remain individually timed and physically believable. The crowd must never behave as a synchronized group or repeat identical gestures mechanically.
+
+The fountain remains continuously active throughout the entire shot. The water flows clearly and naturally with realistic gravity, continuity, fluid behavior, and visible motion from the first frame until the exact ending frame.
+
+The Princess responds to the people's affection with a soft, calm, warm smile. Her emotional state conveys deep inner happiness and quiet appreciation for the love shown to her, without exaggeration, theatrical expression, or artificial performance.
+
+These movements are already established from the first frame and continue naturally together. Do not introduce artificial pauses, sequential waiting, or unnecessary causal gates between the forward procession, horse movement, guards, crowd activity, fountain water, or the Princess's natural physical response.
+
+As the procession continues and the camera follows only the transition defined by the reference images, the group of people that is more prominent in **Reference Image 02** gradually becomes more visually significant within the permitted composition.
+
+The Princess naturally and gradually directs her attention toward that group. Her head and eye movement remain subtle and physically motivated, without any sudden turn or exaggerated gesture.
+
+Her expression gradually settles into warm, restrained happiness as she looks toward the group, clearly feeling the joy of being loved and welcomed by the people.
+
+The crowd members visible near the final composition remain naturally captivated by the Princess's beauty and presence. Their admiration is expressed through believable facial expressions, subtle body reactions, and naturally varied greeting gestures, never through exaggerated or artificial acting.
+
+The Princess's hair, costume, embroidered cloak, sleeves, jewelry, and body respond only with subtle natural secondary motion caused by the movement of the horse and her own body. Preserve the established hairstyle, costume design, fabric structure, jewelry placement, and overall silhouette exactly as defined by the reference images.
+
+The fabrics behave with realistic gravity, weight, folds, inertia, and restrained secondary motion. The hair moves with natural weight and subtle inertia only, without changing its established design, length, volume, or arrangement. Jewelry responds with minimal physically believable movement.
+
+All human movement, horse movement, crowd behavior, fabric movement, hair movement, water movement, facial performance, and secondary motion must remain completely natural, physically believable, restrained, and free of any artificial or generated-looking behavior.
+
+The camera follows only the framing transition defined by **Reference Image 01** and **Reference Image 02**. At no point may it expand the environment, explore beyond the established scene, reveal unseen parts of the square, or create new visual information.
+
+The movement ends immediately upon reaching the exact Princess position, horse position, guard positions, crowd composition, body orientation, head angle, eye direction, framing, distance, and overall spatial relationship shown in **Reference Image 02**.
+
+The final frame must be visually identical to **Reference Image 02**, including camera framing, Princess position, horse position, guard positions, head orientation, eye direction, facial expression, hairstyle, crown, jewelry, costume, clothing folds, crowd placement, fountain, water appearance, castle architecture, palm trees, decorative elements, lighting, colors, textures, and overall composition.
+
+---
+
+### Negative Prompt
+
+Do not change the Princess's identity, facial features, age, body proportions, hairstyle, crown, jewelry, costume, embroidered cloak, white horse, royal guards, crowds, fountain, castle architecture, palm trees, decorative fabrics, lighting, colors, textures, spatial relationships, or any visible object established by the reference images.
+
+Do not reveal unseen parts of the Lovers' Square or the Princess's castle.
+
+Do not expand the environment.
+
+Do not generate, infer, reconstruct, invent, or expose any new people, crowd members, architecture, walls, towers, gates, paths, ground, sky areas, trees, plants, fountains, decorations, fabrics, objects, or environmental details outside the absolute visual boundaries defined by **Reference Image 01** and **Reference Image 02**.
+
+No camera pan, tilt, zoom, dolly, orbit, crane, handheld movement, lateral exploration, vertical exploration, reframing, or any other camera behavior beyond the exact framing transition required to move from **Reference Image 01** to **Reference Image 02**.
+
+Do not stop or freeze the forward motion of the procession before reaching the final frame.
+
+Do not make the horse move unnaturally, change direction unexpectedly, slide, float, stumble, deform, accelerate unnaturally, or display unrealistic gait, anatomy, balance, weight transfer, leg movement, head movement, or body mechanics.
+
+Do not make the Princess bounce, shake, slide, float, disconnect from the horse's movement, change posture unnaturally, or perform exaggerated body motion.
+
+Do not make the guards move mechanically, slide, change their established positions unnaturally, cross through the horse or other people, or perform exaggerated gestures.
+
+Do not make the crowd move as a synchronized unit.
+
+Do not make multiple people raise or lower their hands with identical timing, identical poses, repeated mechanical gestures, robotic movement, uniform expressions, or artificial choreography.
+
+Do not exaggerate the crowd's happiness, admiration, facial expressions, body reactions, or greeting gestures.
+
+Do not exaggerate the Princess's smile, happiness, head movement, gaze shift, or emotional performance.
+
+Do not introduce theatrical acting, unnatural posing, forced expressions, artificial gestures, or generated-looking movement.
+
+Do not make the Princess suddenly turn toward the final crowd group. Her attention must develop naturally and gradually within the transition defined by the reference images.
+
+Do not stop, freeze, distort, reverse, duplicate, or unnaturally alter the fountain water.
+
+No unrealistic water physics, discontinuous water flow, floating water, frozen water, flickering water, sudden volume changes, or artificial liquid behavior.
+
+Do not redesign, restyle, shorten, lengthen, enlarge, reduce, or otherwise alter the Princess's hairstyle.
+
+No hair popping, floating hair, excessive hair motion, unnatural hair volume changes, independent hair movement, or unrealistic hair physics.
+
+Do not redesign or alter the costume, cloak, fabric structure, embroidery, sleeves, jewelry, folds, or established silhouette.
+
+No floating fabric, excessive fluttering, weightless cloth, unnatural folds, cloth-body intersections, unrealistic cloth physics, or independent fabric motion.
+
+No facial deformation, facial feature drift, identity drift, asymmetrical facial corruption, warped faces, melting faces, duplicated facial features, abnormal eyes, eye deformation, crossed eyes, drifting eye direction, or unnatural facial animation.
+
+No anatomy errors, body deformation, malformed limbs, extra limbs, missing limbs, duplicated limbs, unnatural joints, broken poses, body morphing, clipping, interpenetration, or physically impossible movement.
+
+No hand deformation, finger deformation, extra fingers, missing fingers, fused fingers, duplicated fingers, broken wrists, malformed hands, unnatural hand poses, or inconsistent hand anatomy.
+
+No crowd-face corruption, duplicated people, merging people, disappearing people, sudden new people, body duplication, facial duplication, ghost bodies, crowd morphing, or inconsistent crowd identities.
+
+No horse anatomy deformation, duplicated legs, missing legs, malformed hooves, distorted head, distorted neck, body morphing, rider-horse intersections, or unstable horse geometry.
+
+No floating bodies, sliding feet, ground penetration, object penetration, clipping between people, horse, clothing, guards, or environmental elements.
+
+No flickering, ghosting, morphing, texture swimming, geometry instability, sudden scale changes, object disappearance, object duplication, inconsistent shadows, lighting variation, color shifts, exposure changes, temporal inconsistency, frame-to-frame instability, AI artifacts, or any other visual, anatomical, physical, temporal, behavioral, or compositional defect that makes the scene appear artificial or breaks the realism and continuity established by the reference images.
+
+Do not continue the procession, horse movement, camera movement, Princess movement, gaze movement, crowd development, or any other progression beyond the exact state shown in **Reference Image 02**.
+
+Do not reveal any additional environment after reaching the final composition.
+
+The shot must end immediately at **Reference Image 02**.
+
+No final frame different from **Reference Image 02**.

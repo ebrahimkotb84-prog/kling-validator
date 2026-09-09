@@ -1,0 +1,49 @@
+{
+  "project": "SHOT 01 - Princess Procession in Lovers' Square",
+  "status": "APPROVED_BY_USER",
+  "authorization_rule": "No variable statement may be introduced unless attributable to IMG_01, IMG_02, USR, CONST, DNA or REF.",
+  "sources": {
+    "IMG_01": [
+      "Princess riding a white horse in the royal procession.",
+      "Two black-clad royal guards accompany the horse within the visible composition.",
+      "Crowds line both sides of the route.",
+      "Princess castle/gate and an operating fountain are visible in the background.",
+      "Palm trees and decorative fabrics/tents are visible.",
+      "Morning/daylight appearance with warm lighting.",
+      "Princess visible costume includes a light royal dress/robe, embroidered green cloak, crown and jewelry; long dark wavy hair is visible."
+    ],
+    "IMG_02": [
+      "Same Princess, white horse, guards, crowds, castle/gate, fountain, palm trees and decorative elements remain visible.",
+      "Final composition is closer and shifts emphasis toward a group of crowd members.",
+      "Princess head/eye direction settles toward that crowd group with a warm happy expression.",
+      "Lighting and overall visual identity remain continuous with IMG_01."
+    ],
+    "USR": [
+      "Location: Lovers' Square in front of the Princess's castle.",
+      "Time: morning.",
+      "The royal procession is already moving forward and continues forward through the shot.",
+      "Crowds are naturally active and happy to see the Princess and raise hands to greet her with varied, non-artificial movement.",
+      "Princess responds with a soft calm smile and restrained happiness; by the ending she looks happily toward the crowd group emphasized in IMG_02.",
+      "Horse movement must be natural; guards move naturally with the procession.",
+      "Princess body, hair, clothing and jewelry respond naturally to horse motion.",
+      "Fountain remains active with clear natural water motion throughout.",
+      "All continuous motions persist through IMG_02.",
+      "The shot ends with visual emphasis on crowd members captivated by the Princess while she looks toward them happily.",
+      "Princess internal feeling: strong but restrained happiness from feeling the people's love, without exaggeration.",
+      "Absolutely nothing may appear artificial.",
+      "The two reference images are the absolute visual boundary; revealing, generating, inferring or exploring anything outside the frames permitted by those images is forbidden.",
+      "Negative restrictions must be broad and shot-specific."
+    ],
+    "CONST": [
+      "Forward procession motion from first frame through exact end.",
+      "Natural horse gait through exact end.",
+      "Natural guard motion through exact end.",
+      "Natural crowd activity and greeting reactions through exact end.",
+      "Continuous natural fountain-water motion through exact end.",
+      "Princess body response and secondary hair/clothing/jewelry motion through exact end.",
+      "Princess calm warm happiness remains restrained and develops naturally toward final crowd attention."
+    ],
+    "DNA": "Kling DNA methodology",
+    "REF": "Locked SHOT03 function template"
+  }
+}

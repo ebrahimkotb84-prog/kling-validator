@@ -1,0 +1,10 @@
+Use Reference Image 01 as exact starting frame and Reference Image 02 as exact ending frame.
+Preserve identity/appearance/visible objects.
+References define absolute visual boundaries; no unseen reveal.
+Begin exactly from Reference Image 01 and state starting pose/action.
+Perform primary action, with Only-After gates only where true predecessors exist.
+Maintain natural motion and secondary cloth/hair/jewelry physics.
+Camera follows only the framing transition defined by the references and reveals no unseen area.
+Movement ends immediately on exact Reference Image 02 state.
+Final frame must be visually identical to Reference Image 02.
+Negative Prompt mirrors identity, environment expansion, camera, action order, end lock, physics/anatomy/continuity.

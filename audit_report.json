@@ -1,0 +1,122 @@
+{
+  "candidate_sha256": "b94f9ad3f37ba8740477cf8337343f5b9f55d66e832b0c893a6ada6b0de1d639",
+  "expected_sha256": "b94f9ad3f37ba8740477cf8337343f5b9f55d66e832b0c893a6ada6b0de1d639",
+  "sha_match": true,
+  "baseline": {
+    "T01": {
+      "pass": true,
+      "reason": "locked SHOT03 function order present"
+    },
+    "T02": {
+      "pass": true,
+      "reason": "no known unsourced inserted content"
+    },
+    "T03": {
+      "pass": true,
+      "reason": "S0 continuous start state is explicit"
+    },
+    "T04": {
+      "pass": true,
+      "reason": "no impossible or invented completed predecessor"
+    },
+    "T05": {
+      "pass": true,
+      "reason": "secondary motions have physical dependency/behavior/end stop"
+    },
+    "T06": {
+      "pass": true,
+      "reason": "no unauthorized Only-After gate"
+    },
+    "T07": {
+      "pass": true,
+      "reason": "negative prompt mirrors critical positive constraints"
+    },
+    "T08": {
+      "pass": true,
+      "reason": "reference frames remain absolute visual boundary"
+    },
+    "T09": {
+      "pass": true,
+      "reason": "no direct functional contradiction detected"
+    },
+    "T10": {
+      "pass": true,
+      "reason": "all progression is locked to stop at Reference Image 02"
+    },
+    "T11": {
+      "pass": true,
+      "reason": "references remain governing constraints with no unsupported positive additions"
+    }
+  },
+  "mutations": {
+    "T01": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 9,
+      "valid_mutation_check": true,
+      "designated_reason": "required SHOT03 function order/opening/negative block missing or displaced"
+    },
+    "T02": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 10,
+      "valid_mutation_check": true,
+      "designated_reason": "unsupported positive content: ['white doves']"
+    },
+    "T03": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 9,
+      "valid_mutation_check": true,
+      "designated_reason": "S0 is delayed, initially still, or missing required continuous start facts"
+    },
+    "T04": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 10,
+      "valid_mutation_check": true,
+      "designated_reason": "invented/impossible predecessor detected"
+    },
+    "T05": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 9,
+      "valid_mutation_check": true,
+      "designated_reason": "secondary motion dependency/physics/settle-stop missing or autonomous"
+    },
+    "T06": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 9,
+      "valid_mutation_check": true,
+      "designated_reason": "unauthorized Only-After serialization detected"
+    },
+    "T07": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 10,
+      "valid_mutation_check": true,
+      "designated_reason": "critical negative reflection missing"
+    },
+    "T08": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 10,
+      "valid_mutation_check": true,
+      "designated_reason": "environment expansion or unauthorized reveal detected"
+    },
+    "T09": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 10,
+      "valid_mutation_check": true,
+      "designated_reason": "contradictory camera/motion instruction detected"
+    },
+    "T10": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 10,
+      "valid_mutation_check": true,
+      "designated_reason": "exact end lock missing/weakened or progression continues after end"
+    },
+    "T11": {
+      "designated_test_failed": true,
+      "unrelated_tests_passing": 10,
+      "valid_mutation_check": true,
+      "designated_reason": "reference discipline violated by unsupported addition or weakened authority"
+    }
+  },
+  "mutation_suite_valid": true,
+  "overall": "VALIDATED-PASS",
+  "scope_note": "Deterministic structural/source/sequence/negative/boundary/end-lock audit. This does not guarantee Kling's rendered visual quality."
+}

@@ -1,0 +1,29 @@
+name: Kling deterministic validation
+
+on:
+  push:
+    branches: [ main, audit/kling-validation-20260909 ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify locked SHA
+        run: echo "b94f9ad3f37ba8740477cf8337343f5b9f55d66e832b0c893a6ada6b0de1d639  candidate_baseline.txt" | sha256sum --check --strict
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Run T01-T11 and mutation suite
+        run: python validator.py --candidate candidate_baseline.txt --output audit_report.json
+      - name: Upload audit report
+        uses: actions/upload-artifact@v4
+        with:
+          name: kling-audit-report
+          path: audit_report.json
